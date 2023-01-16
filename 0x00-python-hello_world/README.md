@@ -1,3 +1,1 @@
-## ALX Higher level programming
-
-### Python - Hello World
+This is the first assignment on python programming by ALX.
